@@ -1,0 +1,28 @@
+.cards {
+    background: #fff;
+    border-radius: 2px;
+    height: 200px;
+    margin: 1em;
+    position: relative;
+    float: left;
+    width: 200px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+}
+
+.cards > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background: rgb(0, 0, 0);
+}
+
+.cards > .img container > img {
+    width: 100;
+}
+
+.cards > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+}

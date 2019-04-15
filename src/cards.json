@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Rachel Green",
+        "image": "http://images5.fanpop.com/image/photos/29900000/Rachel-rachel-green-29922108-200-200.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Gunther",
+        "image": "https://img.sharetv.com/shows/characters/thumbnails/friends.gunther.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Ross Geller",
+        "image": "https://vignette.wikia.nocookie.net/friends/images/8/89/Square_Ross.jpg/revision/latest/scale-to-width-down/200?cb=20111216200027",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Janice Goralnik",
+        "image": "https://static.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/styles/facebook/public/janicefriends.jpg?itok=4py_9lNF",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Chandler Bing",
+        "image": "https://gl-images.condecdn.net/image/yvPZrZ5AYpY/crop/200/square/f/S1_Chandler_3f874dc7_P.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Susan Bunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV75tyE-O190Xn9ks5h_MDUC_sEU6OcTi_9yMGAi3m0M-JM_Rn",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Phoebe Buffay",
+        "image": "https://i.pinimg.com/236x/5b/ef/82/5bef82986de31e70eb2dafcbfa9ccdd5--phoebe-buffay-icons.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Mr. Heckles",
+        "image": "https://i.pinimg.com/originals/b4/4b/4a/b44b4a91a34b294ca7e2b51b2bc9a3e1.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Monica Geller",
+        "image": "http://images4.fanpop.com/image/photos/22500000/Monica-friends-22554243-200-200.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Marcel",
+        "image": "http://images2.fanpop.com/images/polls/136000/136086_1225623424381_full.jpg?v=1225623284",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Joey Tribbiani",
+        "image": "http://images4.fanpop.com/image/photos/22500000/Joey-friends-22529019-200-200.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Carol Willick",
+        "image": "https://www.celebritynooz.com/img/JaneSibbett-then.jpg",
+        "count": 0
+    }
+
+]
